@@ -100,6 +100,7 @@ GROUP BY s.customer_id;
 
 -- 10) In the first week after a customer joins the program (including their join date) they earn 2x points on all items, 
 --     not just sushi  - how many points do customer A and B have at the end of January?
+
 SELECT s.customer_id,
 	SUM(CASE
 		WHEN s.order_date between mem.join_date AND DATE_ADD(mem.join_date, INTERVAL 7 DAY ) THEN m.price*20
@@ -114,6 +115,7 @@ GROUP BY s.customer_id;
 -- BONUS QUESTIONS
 
 -- 11) Recreate the table output using available data
+
 SELECT s.customer_id, s.order_date, m.product_name, m.price, 
 	CASE WHEN s.order_date >= mem.join_date THEN 'Y' ELSE 'N' END AS member
 FROM sales s
