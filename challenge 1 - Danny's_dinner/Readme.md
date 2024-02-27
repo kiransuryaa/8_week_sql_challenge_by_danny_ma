@@ -8,7 +8,7 @@
 * [Problem Statement](https://github.com/kiransuryaa/8_week_sql_challenge_by_danny_ma/tree/main/challenge%201%20-%20Danny's_dinner#problem-statement)
 * [Entity Relationship diagram](https://github.com/kiransuryaa/8_week_sql_challenge_by_danny_ma/tree/main/challenge%201%20-%20Danny's_dinner#entity-relationship-diagram)
 * [Case Study Questions](https://github.com/kiransuryaa/8_week_sql_challenge_by_danny_ma/tree/main/challenge%201%20-%20Danny's_dinner#-case-study-questions)
-* [Case Study Solutions](https://github.com/kiransuryaa/8_week_sql_challenge_by_danny_ma/tree/main/challenge%201%20-%20Danny's_dinner#-case-study-solutions)
+* [Case Study Solutions](https://github.com/kiransuryaa/8_week_sql_challenge_by_danny_ma/tree/main/challenge%201%20-%20Danny's_dinner#case-study-solutions)
 
 ----
 ## Problem Statement
