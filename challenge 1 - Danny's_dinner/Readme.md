@@ -5,10 +5,10 @@
 ----
 
 ## Table of content
-* [Problem Statement]()
-* [Entity Relationship diagram]()
-* [Case Study Questions]()
-* [Case Study Solutions]()
+* [Problem Statement](https://github.com/kiransuryaa/8_week_sql_challenge_by_danny_ma/tree/main/challenge%201%20-%20Danny's_dinner#problem-statement)
+* [Entity Relationship diagram](https://github.com/kiransuryaa/8_week_sql_challenge_by_danny_ma/tree/main/challenge%201%20-%20Danny's_dinner#entity-relationship-diagram)
+* [Case Study Questions](https://github.com/kiransuryaa/8_week_sql_challenge_by_danny_ma/tree/main/challenge%201%20-%20Danny's_dinner#-case-study-questions)
+* [Case Study Solutions](https://github.com/kiransuryaa/8_week_sql_challenge_by_danny_ma/tree/main/challenge%201%20-%20Danny's_dinner#-case-study-questions)
 
 ----
 ## Problem Statement
@@ -24,7 +24,8 @@ Danny has shared with you 3 key datasets for this case study:
 ----
 ## Entity Relationship Diagram
 <p align="center">
-<img src = >
+
+
 
 ----
 ## ❓ Case Study Questions
@@ -47,7 +48,7 @@ Danny has shared with you 3 key datasets for this case study:
 
 ----
 ## Case Study Solutions
-To view code syntax [click here]()
+To view code syntax [click here](https://github.com/kiransuryaa/8_week_sql_challenge_by_danny_ma/blob/main/challenge%201%20-%20Danny's_dinner/danny_dinner_solved_questions.sql)
 
 ### 1. What is the total amount each customer spent at the restaurant?
 ```TSQL
